@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecorderService</string>
+    <string name="notif_recorder_service_title">Record</string>
+    <string name="notif_recorder_service_text">Time:</string>
+    <string name="notif_recorder_service_action_title">Stop</string>
+    <string name="channel_recorder_service_name">Recording</string>
+    <string name="channel_recorder_service_description">Record voice</string>
+    <string name="toast_start_record">Start record</string>
+    <string name="toast_stop_record">Stop record</string>
+    <string name="name_file">/%1$ds_%2$d%_%3$d%_%4$d%_%5$d%_%6$d%.3gpp</string>
+</resources>
